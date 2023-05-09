@@ -1,0 +1,27 @@
+{
+    "name": "weboccult/tryon",
+    "description": "Virtual Try on",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Weboccult"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Tryon\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Tryon\\TryonProvider"
+            ]
+           
+           
+           
+        }
+    },
+    "require": { "guzzlehttp/guzzle": "^7.0.1"}
+  
+}
