@@ -22,8 +22,9 @@
        
     }
     public static function webar_check_tryon_producs($product_id=''){
-        //$ton_clientid = config('ammazzawebar.client_id');
-        $ton_clientid = env('AMMAZZA_CLINET_ID','62bbf1ede713ff042a60804c');
+     
+        /** Ammazza client id added in env file of project */   
+        $ton_clientid = env('AMMAZZA_CLINET_ID');
 
         if(!empty($ton_clientid)) {
             if( $product_id != '' ){
