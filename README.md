@@ -13,7 +13,7 @@ Step 1 : Add below code in project of composer.json file
   
 Step 2 : Intall package using below name in project root terminal 
 
-**composer require weboccult/tryon**
+    composer require weboccult/tryon
 
 Step 3 : Publish Assets for ammaza plugin by run below command
 
