@@ -2,7 +2,7 @@
 
 ## Introduction
 
-- AMMAZZA is an out-of-box multi-utility product in the market of jewellery with the fusion of AR (Augmented Reality) + AI (Artificial Intelligence) + BI (Business Intelligence).
+- <a href="https://www.ammazza.me/" target="_blank">AMMAZZA</a> is an out-of-box multi-utility product in the market of jewellery with the fusion of AR (Augmented Reality) + AI (Artificial Intelligence) + BI (Business Intelligence).
 - By integrating Virtual Try-On feature, customers can try jewellery from anywhere anytime.
 - Virtual Try-On is available for Facial and Hand jewelleries like Earrings, Necklace, Sets, Rings, Bracelets.
 
