@@ -1,3 +1,15 @@
+<p align="center"><img src="https://www.ammazza.me/wp-content/themes/demotheme/images/NewAssets/mockupv1.webp" width="50%" alt="Logo"></p>
+
+## Introduction
+
+- AMMAZZA is an out-of-box multi-utility product in the market of jewellery with the fusion of AR (Augmented Reality) + AI (Artificial Intelligence) + BI (Business Intelligence).
+- By integrating Virtual Try-On feature, customers can try jewellery from anywhere anytime.
+- Virtual Try-On is available for Facial and Hand jewelleries like Earrings, Necklace, Sets, Rings, Bracelets.
+
+## Prerequisites
+
+- **Requires [PHP 8.0+](https://php.net/releases/) | [Laravel 8.0+](https://laravel.com/docs/8.x)**
+
 # ammazza-webAR-laravel
 Incorporate the ammazza-webar-laravel plugin in any of the laravel project
 
