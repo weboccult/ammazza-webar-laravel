@@ -9,7 +9,7 @@
 ## Prerequisites
 
 - Requires [PHP 8.0+](https://php.net/releases/) | [Laravel 8.0+](https://laravel.com/docs/8.x)
-- Read this steps for the better understanding of the integration before you try this package(https://www.ammazza.me/integrations/ && https://www.ammazza.me/web-plugin/ -> FAQs)
+- Read the steps for the better understanding of the integration before you try this package(https://www.ammazza.me/integrations/ && https://www.ammazza.me/web-plugin/ -> FAQs)
 - To get the virtual tryon, need to fill up this form(https://www.ammazza.me/get-free-tryon/), once the form is submitted with the required details we will email you with the Ammazza portal link and credentials to upload tryon products and images.
 - **ClientID** will be also shared to you with the email. It is required to integrate this package. 
 - Watch this video to upload Vitrual Try-On Products on Ammazza portal.(https://www.awesomescreenshot.com/video/3734576?key=4ed5de7b67b2bbdd42f88d0763c4da80)
