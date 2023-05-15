@@ -17,25 +17,16 @@
 # ammazza-webAR-laravel
 Incorporate the ammazza-webar-laravel plugin in any of the laravel project
 
-Step 1 : Add below code in the composer.json file of the laravel project 
 
-    "repositories": [
-       
-        {
-            "type": "vcs",
-            "url": "https://github.com/weboccult/ammazza-webar-laravel.git"
-        }
-    ],
-  
-Step 2 : Install package using below command in project root terminal 
+Step 1 : Install package using below command in project root terminal 
 
     composer require weboccult/tryon
 
-Step 3 : Publish assets for ammaza plugin by running below command
+Step 2 : Publish assets for ammaza plugin by running below command
 
     php artisan vendor:publish --tag=public --force
 
-Step 4 : Add client id in your project .env file (Refer Prerequisites to get client id)
+Step 3 : Add client id in your project .env file (Refer Prerequisites to get client id)
 
     AMMAZZA_CLINET_ID=YourClientId
 
@@ -44,12 +35,12 @@ Don't forget to run clear cache after changes in env file
     php artisan optimize:clear
 
 
-Step 5: Now add ammaza script and style to your view/blade file where you want to add tryon button 
+Step 4: Now add ammaza script and style to your view/blade file where you want to add tryon button 
 
     <link rel="stylesheet" href="{{ asset('css/ammaza-tryon-style.css') }} "/>
     <script src="{{ asset('js/ammaza-tryon-scripts.js') }} "></script>
 
-Step 6: Add try on button using below code in view or controller 
+Step 5: Add try on button using below code in view or controller 
 
 	
     {!! app('trynow')::getTryOn()!!}
