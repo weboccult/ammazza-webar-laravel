@@ -41,9 +41,7 @@ Step 4 : Add client id in your project .env file (Refer Prerequisites to get cli
 
 Don't forget to run clear cache after changes in env file 
 
-    php artisan cache:clear
-    php artisan config:clear
-    php artisan o:c
+    php artisan optimize:clear
 
 
 Step 5: Now add ammaza script and style to your view/blade file where you want to add tryon button 
