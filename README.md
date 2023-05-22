@@ -20,7 +20,7 @@ Incorporate the ammazza-webar-laravel plugin in any of the laravel project
 
 Step 1 : Install package using below command in project root terminal 
 
-    composer require ammazza-webar
+    composer require ammazza/webar
 
 Step 2 : Publish assets for ammaza plugin by running below command
 
